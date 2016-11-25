@@ -11,7 +11,7 @@ namespace HelloWord
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hola mundo 1ra versión");
+            Console.WriteLine("Hola mundo 22da versión");
 
  
             Console.WriteLine("Press any key to exit.");
