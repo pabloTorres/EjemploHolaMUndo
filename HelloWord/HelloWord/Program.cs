@@ -10,9 +10,9 @@ namespace HelloWord
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("Hola mundo 22da versión");
-
+            
+            Console.WriteLine("Hola mundo 22daaa versión");
+            //esta es la segunda version
  
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
